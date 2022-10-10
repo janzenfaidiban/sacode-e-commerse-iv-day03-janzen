@@ -1,0 +1,21 @@
+header {
+	background-color:black; 
+	color:white; 
+	padding:5px; 
+	text-align:center;
+}
+
+section {
+	border-style: solid;
+	padding:20px;
+}
+
+footer {
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align: center;
+}
+
+b {
+	color:blue;
+}
